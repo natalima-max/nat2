@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+<h1>Lista de Exercícios (primeira aula)</h1>
+
+<a href="HELLO.php"> Exercício 01 - Hello World </a> <br> 
+<a href="ex2.php"> Exercício 02 - Pagamento </a> <br>
+<a href="ex2.php"> Exercício 03 - Salário <br>
+</body>
+</html>
